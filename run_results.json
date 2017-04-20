@@ -1,0 +1,102 @@
+{
+ "list1": [
+  {
+   "ClassName": "CS 3110 - 001 Data Structures and Functional Programming",
+   "DateAndTime": "TuTh 10:10AM - 11:00AM",
+   "Capacity": "330",
+   "EnrollmentTotal": "245",
+   "AvailableSeats": "85"
+  },
+  {
+   "ClassName": "CS 3110 - 201 Data Structures and Functional Programming",
+   "DateAndTime": "MoWe 2:30PM - 3:20PM",
+   "Capacity": "30",
+   "EnrollmentTotal": "30",
+   "AvailableSeats": "0"
+  },
+  {
+   "ClassName": "CS 3110 - 202 Data Structures and Functional Programming",
+   "DateAndTime": "MoWe 3:35PM - 4:25PM",
+   "Capacity": "30",
+   "EnrollmentTotal": "13",
+   "AvailableSeats": "17"
+  },
+  {
+   "ClassName": "CS 3110 - 203 Data Structures and Functional Programming",
+   "DateAndTime": "MoWe 7:30PM - 8:20PM",
+   "Capacity": "30",
+   "EnrollmentTotal": "18",
+   "AvailableSeats": "12"
+  },
+  {
+   "ClassName": "CS 3110 - 204 Data Structures and Functional Programming",
+   "DateAndTime": "MoWe 10:10AM - 11:00AM",
+   "Capacity": "30",
+   "EnrollmentTotal": "30",
+   "AvailableSeats": "0"
+  },
+  {
+   "ClassName": "CS 3110 - 205 Data Structures and Functional Programming",
+   "DateAndTime": "TuTh 1:25PM - 2:15PM",
+   "Capacity": "30",
+   "EnrollmentTotal": "30",
+   "AvailableSeats": "0"
+  },
+  {
+   "ClassName": "CS 3110 - 206 Data Structures and Functional Programming",
+   "DateAndTime": "TuTh 3:35PM - 4:25PM",
+   "Capacity": "30",
+   "EnrollmentTotal": "30",
+   "AvailableSeats": "0"
+  },
+  {
+   "ClassName": "CS 3110 - 207 Data Structures and Functional Programming",
+   "DateAndTime": "MoWe 2:30PM - 3:20PM",
+   "Capacity": "30",
+   "EnrollmentTotal": "29",
+   "AvailableSeats": "1"
+  },
+  {
+   "ClassName": "CS 3110 - 208 Data Structures and Functional Programming",
+   "DateAndTime": "MoWe 2:30PM - 3:20PM",
+   "Capacity": "30",
+   "EnrollmentTotal": "12",
+   "AvailableSeats": "18"
+  },
+  {
+   "ClassName": "CS 3110 - 209 Data Structures and Functional Programming",
+   "DateAndTime": "MoWe 3:35PM - 4:25PM",
+   "Capacity": "30",
+   "EnrollmentTotal": "5",
+   "AvailableSeats": "25"
+  },
+  {
+   "ClassName": "CS 3110 - 210 Data Structures and Functional Programming",
+   "DateAndTime": "MoWe 3:35PM - 4:25PM",
+   "Capacity": "26",
+   "EnrollmentTotal": "11",
+   "AvailableSeats": "15"
+  },
+  {
+   "ClassName": "CS 3110 - 211 Data Structures and Functional Programming",
+   "DateAndTime": "MoWe 7:30PM - 8:20PM",
+   "Capacity": "26",
+   "EnrollmentTotal": "6",
+   "AvailableSeats": "20"
+  },
+  {
+   "ClassName": "CS 3110 - 212 Data Structures and Functional Programming",
+   "DateAndTime": "MoWe 2:30PM - 3:20PM",
+   "Capacity": "22",
+   "EnrollmentTotal": "10",
+   "AvailableSeats": "12"
+  },
+  {
+   "ClassName": "CS 3110 - 213 Data Structures and Functional Programming",
+   "DateAndTime": "MoWe 1:25PM - 2:15PM",
+   "Capacity": "21",
+   "EnrollmentTotal": "21",
+   "AvailableSeats": "0"
+  }
+ ]
+}
